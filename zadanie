@@ -22,4 +22,4 @@ cubes_list = []
 cubes_list = [(number**3) for number in list_number] 
 print(cubes_list)
 print("test")
-     
+print("kolega")
